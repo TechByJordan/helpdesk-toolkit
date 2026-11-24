@@ -1,0 +1,5 @@
+Reports/
+*.html
+*.save
+*.log
+Thumbs.db
